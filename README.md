@@ -1,2 +1,5 @@
 # fdp
-This is a promo website for a party my school is throwing. It's mostly CSS and HTML. The only scripting i did was for the interactive map on the bottom of the script, which I made using the leaflet api. The button originally took you to the organizator's social, but ofc I took that off for privacy reasons. Styling is intended for mobile.
+### Why did I do this?
+I was asked to make a promotional website for my school's senior party. The idea was to spread QR codes around the building which would take you to this website. In the original page, the button in the middle takes you to the party's diffussion group, which I obviously took out for this repo for privacy reasons.
+### How did I do this?
+Mostly HTML and CSS as this is a very simple project. I did do some scripting with JS to set up the interactive map at the bottom. I set it up using the LeafLet API.
