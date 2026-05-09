@@ -1,1 +1,2 @@
 # fdp
+This is a promo website for a party my school is throwing. It's mostly CSS and HTML. The only scripting i did was for the interactive map on the bottom of the script, which I made using the leaflet api. The button originally took you to the organizator's social, but ofc I took that off for privacy reasons.
