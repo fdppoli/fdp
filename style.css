@@ -58,7 +58,7 @@ h4{
     background-color: rgb(22, 22, 22);
     width: 340px;
     border-radius: 40px;
-    border: 1px white solid;
+    border: 1px solid rgba(255, 255, 255, 0.57);
 }
 
 .map-container{
@@ -71,7 +71,7 @@ h4{
     width: 340px;
     height: 340px;
     border-radius: 40px;
-    border: 1px white solid;
+    border: 1px solid rgba(255, 255, 255, 0.57);
 }
 
 #map{
