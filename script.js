@@ -9,5 +9,5 @@ L.tileLayer('https://{s}.tile.opennstreetmap.org/{z}/{x}/{y}.png', {
 
 L.marker([lat, lng])
 .addTo(map)
-.bindPopup('<b>Pecado Club</b><br>Dorrego 1039, Rosario')
+.bindPopup('<b>Pecado Club</b><br>Laprida 847, Rosario')
 .openPopup();
