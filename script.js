@@ -9,5 +9,5 @@ L.tileLayer('https://{s}.tile.opennstreetmap.org/{z}/{x}/{y}.png', {
 
 L.marker([lat, lng])
 .addTo(map)
-.bindPopup('<b>Viper</b><br>-, -')
+.bindPopup('<b>-</b><br>-, -')
 .openPopup();
